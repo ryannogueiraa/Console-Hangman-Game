@@ -1,139 +1,62 @@
-🎮 Jogo da Forca em C#
+<h1 align="center">🎮 Hangman Game</h1>
 
-Bem-vindo ao Jogo da Forca, um projeto desenvolvido em C# (Console Application) com foco na prática de lógica de programação, estruturas de dados e controle de fluxo.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=22&center=true&vCenter=true&width=600&lines=Jogo+da+Forca+em+C%23;Console+Application;Lógica+de+Programação;Dictionary+%7C+Random+%7C+Arrays;Projeto+para+reforço+de+fundamentos" />
+</p>
 
-Projeto criado por Ryan 🚀
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Console-App-blue?style=for-the-badge"/>
+</p>
 
-📌 Sobre o Projeto
+---
 
-Este é um jogo da forca executado no console, onde:
+## 🚀 Sobre o Projeto
 
-O sistema sorteia uma categoria
+O **Hangman Game** é uma aplicação de console desenvolvida em **C#**, com foco em fortalecer fundamentos da programação.
 
-Depois sorteia uma palavra secreta
+🎯 O sistema:
 
-O jogador tem 15 tentativas para acertar a palavra
+- Sorteia uma **categoria**
+- Escolhe uma **palavra aleatória**
+- Permite **15 tentativas**
+- Valida letras repetidas
+- Permite reiniciar o jogo
+- Informa vitória ou derrota
 
-O jogo informa se a letra está correta ou não
+Projeto desenvolvido com organização e lógica estruturada.
 
-Ao final, o jogador pode escolher jogar novamente
+---
 
-🛠️ Tecnologias Utilizadas
+## 🧠 Conceitos Aplicados
 
-C#
+✔ Estruturas de repetição (`while`)  
+✔ Estruturas condicionais (`if / else`)  
+✔ Uso de `Dictionary<string, string[]>`  
+✔ Manipulação de `char[]`  
+✔ Classe `Random`  
+✔ Validação de entrada  
+✔ Comparação case-insensitive  
 
-.NET
+---
 
-Console Application
+## 🎮 Categorias do Jogo
 
-Estruturas utilizadas:
+🔌 Eletrônicos  
+📚 Escola  
+🍔 Comida  
+🐶 Animais  
+💻 Tecnologia  
+🌲 Natureza  
+🚀 Aventura  
+🧩 Objetos Variados  
 
-Dictionary
+Cada partida é diferente graças ao sorteio aleatório.
 
-List
+---
 
-Array
+## ⚙️ Como Executar
 
-Loops
-
-Condicionais
-
-Random
-
-Encoding UTF-8
-
-📂 Estrutura do Projeto
-
-O jogo utiliza:
-
-Dictionary<string, string[]> → Para armazenar categorias e palavras
-
-Random → Para sortear tema e palavra
-
-Array de char → Para exibir as letras descobertas
-
-Controle de tentativas com variável int
-
-🎯 Categorias Disponíveis
-
-Eletrônicos
-
-Escola
-
-Comida
-
-Animais
-
-Tecnologia
-
-Natureza
-
-Aventura
-
-Objetos Variados
-
-Cada categoria contém múltiplas palavras para sorteio aleatório.
-
-▶️ Como Executar
-
-Abra o projeto no Visual Studio
-
-Compile o projeto
-
-Execute a aplicação
-
-Digite uma letra por vez
-
-Tente descobrir a palavra antes que acabem as 15 tentativas
-
-🎮 Como Jogar
-
-O tema será exibido na tela.
-
-Você deve digitar uma letra por vez.
-
-Se acertar:
-
-A letra será revelada.
-
-Se errar:
-
-Você perde uma tentativa.
-
-Se completar a palavra → 🎉 Você ganha!
-
-Se acabar as tentativas → ❌ Você perde.
-
-Ao final, poderá escolher jogar novamente.
-
-📚 Conceitos Praticados
-
-Manipulação de Strings
-
-Estrutura de repetição while
-
-Estrutura condicional if/else
-
-Validação de entrada do usuário
-
-Comparação ignorando maiúsculas/minúsculas
-
-Organização de dados com dicionário
-
-🚀 Possíveis Melhorias Futuras
-
-Adicionar desenho da forca em ASCII
-
-Mostrar letras já digitadas
-
-Sistema de pontuação
-
-Níveis de dificuldade
-
-Interface gráfica (Windows Forms ou WPF)
-
-Versão Web com ASP.NET
-
-👨‍💻 Autor
-
-Desenvolvido por Ryan
+```bash
+git clone https://github.com/seu-usuario/seu-repositorio.git
