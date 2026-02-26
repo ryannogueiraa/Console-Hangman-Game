@@ -53,10 +53,3 @@ Projeto desenvolvido com organização e lógica estruturada.
 🧩 Objetos Variados  
 
 Cada partida é diferente graças ao sorteio aleatório.
-
----
-
-## ⚙️ Como Executar
-
-```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
