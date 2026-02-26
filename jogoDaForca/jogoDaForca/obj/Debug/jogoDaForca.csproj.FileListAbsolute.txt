@@ -1,0 +1,15 @@
+C:\Users\ryann\Downloads\jogoDaForca\jogoDaForca\bin\Debug\jogoDaForca.exe.config
+C:\Users\ryann\Downloads\jogoDaForca\jogoDaForca\bin\Debug\jogoDaForca.exe
+C:\Users\ryann\Downloads\jogoDaForca\jogoDaForca\bin\Debug\jogoDaForca.pdb
+C:\Users\ryann\Downloads\jogoDaForca\jogoDaForca\obj\Debug\jogoDaForca.csproj.AssemblyReference.cache
+C:\Users\ryann\Downloads\jogoDaForca\jogoDaForca\obj\Debug\jogoDaForca.csproj.CoreCompileInputs.cache
+C:\Users\ryann\Downloads\jogoDaForca\jogoDaForca\obj\Debug\jogoDaForca.exe
+C:\Users\ryann\Downloads\jogoDaForca\jogoDaForca\obj\Debug\jogoDaForca.pdb
+C:\Users\ryann\Downloads\jogoDaForca\jogoDaForca\obj\Debug\jogoDaForca.exe.config
+C:\Users\ryann\OneDrive\Área de Trabalho\Programação\C#\Projetos\jogoDaForca\jogoDaForca\bin\Debug\jogoDaForca.exe.config
+C:\Users\ryann\OneDrive\Área de Trabalho\Programação\C#\Projetos\jogoDaForca\jogoDaForca\bin\Debug\jogoDaForca.exe
+C:\Users\ryann\OneDrive\Área de Trabalho\Programação\C#\Projetos\jogoDaForca\jogoDaForca\bin\Debug\jogoDaForca.pdb
+C:\Users\ryann\OneDrive\Área de Trabalho\Programação\C#\Projetos\jogoDaForca\jogoDaForca\obj\Debug\jogoDaForca.csproj.AssemblyReference.cache
+C:\Users\ryann\OneDrive\Área de Trabalho\Programação\C#\Projetos\jogoDaForca\jogoDaForca\obj\Debug\jogoDaForca.csproj.CoreCompileInputs.cache
+C:\Users\ryann\OneDrive\Área de Trabalho\Programação\C#\Projetos\jogoDaForca\jogoDaForca\obj\Debug\jogoDaForca.exe
+C:\Users\ryann\OneDrive\Área de Trabalho\Programação\C#\Projetos\jogoDaForca\jogoDaForca\obj\Debug\jogoDaForca.pdb
